@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="https://www.opengis.net/kml/2.2">
+  <SameSite=None>
   <Document>
     <name>Aamsveenwandel</name>
     <description>NAtura 2000</description>
