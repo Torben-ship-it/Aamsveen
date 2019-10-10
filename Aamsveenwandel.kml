@@ -175,32 +175,32 @@
         <styleUrl>#icon-1899-0F9D58-highlight</styleUrl>
       </Pair>
     </StyleMap>
-    <Style id="line-FF0000-1000-nodesc-normal">
+    <Style id="line-880E4F-5650-nodesc-normal">
       <LineStyle>
-        <color>ff0000ff</color>
-        <width>1</width>
+        <color>ff4f0e88</color>
+        <width>5.65</width>
       </LineStyle>
       <BalloonStyle>
         <text><![CDATA[<h3>$[name]</h3>]]></text>
       </BalloonStyle>
     </Style>
-    <Style id="line-FF0000-1000-nodesc-highlight">
+    <Style id="line-880E4F-5650-nodesc-highlight">
       <LineStyle>
-        <color>ff0000ff</color>
-        <width>1.5</width>
+        <color>ff4f0e88</color>
+        <width>8.475</width>
       </LineStyle>
       <BalloonStyle>
         <text><![CDATA[<h3>$[name]</h3>]]></text>
       </BalloonStyle>
     </Style>
-    <StyleMap id="line-FF0000-1000-nodesc">
+    <StyleMap id="line-880E4F-5650-nodesc">
       <Pair>
         <key>normal</key>
-        <styleUrl>#line-FF0000-1000-nodesc-normal</styleUrl>
+        <styleUrl>#line-880E4F-5650-nodesc-normal</styleUrl>
       </Pair>
       <Pair>
         <key>highlight</key>
-        <styleUrl>#line-FF0000-1000-nodesc-highlight</styleUrl>
+        <styleUrl>#line-880E4F-5650-nodesc-highlight</styleUrl>
       </Pair>
     </StyleMap>
     <Folder>
@@ -210,7 +210,7 @@
       <name>tracks</name>
       <Placemark>
         <name>Aamsveen</name>
-        <styleUrl>#line-FF0000-1000-nodesc</styleUrl>
+        <styleUrl>#line-880E4F-5650-nodesc</styleUrl>
         <LineString>
           <tessellate>1</tessellate>
           <coordinates>
