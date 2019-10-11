@@ -3,6 +3,142 @@
   <Document>
     <name>Unbenannte Karte</name>
     <description/>
+    <Style id="icon-1499-FFEA00-normal">
+      <IconStyle>
+        <color>ff00eaff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1499-FFEA00-highlight">
+      <IconStyle>
+        <color>ff00eaff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1499-FFEA00">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1499-FFEA00-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1499-FFEA00-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1523-FF5252-normal">
+      <IconStyle>
+        <color>ff5252ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1523-FF5252-highlight">
+      <IconStyle>
+        <color>ff5252ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1523-FF5252">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1523-FF5252-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1523-FF5252-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1596-F9A825-normal">
+      <IconStyle>
+        <color>ff25a8f9</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1596-F9A825-highlight">
+      <IconStyle>
+        <color>ff25a8f9</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1596-F9A825">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1596-F9A825-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1596-F9A825-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1596-FF5252-normal">
+      <IconStyle>
+        <color>ff5252ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1596-FF5252-highlight">
+      <IconStyle>
+        <color>ff5252ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1596-FF5252">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1596-FF5252-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1596-FF5252-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
     <Style id="icon-1899-0288D1-normal">
       <IconStyle>
         <color>ffd18802</color>
@@ -39,67 +175,131 @@
         <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
       </Pair>
     </StyleMap>
-    <Style id="line-880E4F-5844-nodesc-normal">
-      <LineStyle>
-        <color>ff4f0e88</color>
-        <width>5.844</width>
-      </LineStyle>
-      <BalloonStyle>
-        <text><![CDATA[<h3>$[name]</h3>]]></text>
-      </BalloonStyle>
+    <Style id="icon-1899-0F9D58-normal">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
     </Style>
-    <Style id="line-880E4F-5844-nodesc-highlight">
-      <LineStyle>
-        <color>ff4f0e88</color>
-        <width>8.766</width>
-      </LineStyle>
-      <BalloonStyle>
-        <text><![CDATA[<h3>$[name]</h3>]]></text>
-      </BalloonStyle>
+    <Style id="icon-1899-0F9D58-highlight">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
     </Style>
-    <StyleMap id="line-880E4F-5844-nodesc">
+    <StyleMap id="icon-1899-0F9D58">
       <Pair>
         <key>normal</key>
-        <styleUrl>#line-880E4F-5844-nodesc-normal</styleUrl>
+        <styleUrl>#icon-1899-0F9D58-normal</styleUrl>
       </Pair>
       <Pair>
         <key>highlight</key>
-        <styleUrl>#line-880E4F-5844-nodesc-highlight</styleUrl>
+        <styleUrl>#icon-1899-0F9D58-highlight</styleUrl>
       </Pair>
     </StyleMap>
-    <Style id="line-880E4F-7200-nodesc-normal">
+    <Style id="line-880E4F-6000-nodesc-normal">
       <LineStyle>
         <color>ff4f0e88</color>
-        <width>7.2</width>
+        <width>6</width>
       </LineStyle>
       <BalloonStyle>
         <text><![CDATA[<h3>$[name]</h3>]]></text>
       </BalloonStyle>
     </Style>
-    <Style id="line-880E4F-7200-nodesc-highlight">
+    <Style id="line-880E4F-6000-nodesc-highlight">
       <LineStyle>
         <color>ff4f0e88</color>
-        <width>10.8</width>
+        <width>9</width>
       </LineStyle>
       <BalloonStyle>
         <text><![CDATA[<h3>$[name]</h3>]]></text>
       </BalloonStyle>
     </Style>
-    <StyleMap id="line-880E4F-7200-nodesc">
+    <StyleMap id="line-880E4F-6000-nodesc">
       <Pair>
         <key>normal</key>
-        <styleUrl>#line-880E4F-7200-nodesc-normal</styleUrl>
+        <styleUrl>#line-880E4F-6000-nodesc-normal</styleUrl>
       </Pair>
       <Pair>
         <key>highlight</key>
-        <styleUrl>#line-880E4F-7200-nodesc-highlight</styleUrl>
+        <styleUrl>#line-880E4F-6000-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-F9A825-3713-nodesc-normal">
+      <LineStyle>
+        <color>ff25a8f9</color>
+        <width>3.713</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="line-F9A825-3713-nodesc-highlight">
+      <LineStyle>
+        <color>ff25a8f9</color>
+        <width>5.5695</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="line-F9A825-3713-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-F9A825-3713-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-F9A825-3713-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-F9A825-4488-nodesc-normal">
+      <LineStyle>
+        <color>ff25a8f9</color>
+        <width>4.488</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="line-F9A825-4488-nodesc-highlight">
+      <LineStyle>
+        <color>ff25a8f9</color>
+        <width>6.732</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="line-F9A825-4488-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-F9A825-4488-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-F9A825-4488-nodesc-highlight</styleUrl>
       </Pair>
     </StyleMap>
     <Folder>
       <name>tracks</name>
       <Placemark>
         <name>Linie 2</name>
-        <styleUrl>#line-880E4F-7200-nodesc</styleUrl>
+        <styleUrl>#line-F9A825-4488-nodesc</styleUrl>
         <LineString>
           <tessellate>1</tessellate>
           <coordinates>
@@ -139,7 +339,7 @@
       </Placemark>
       <Placemark>
         <name>Linie 3</name>
-        <styleUrl>#line-880E4F-5844-nodesc</styleUrl>
+        <styleUrl>#line-F9A825-3713-nodesc</styleUrl>
         <LineString>
           <tessellate>1</tessellate>
           <coordinates>
@@ -2081,7 +2281,526 @@
       <name>Unbenannte Ebene</name>
     </Folder>
     <Folder>
-      <name>Unbenannte Ebene</name>
+      <name>tracks</name>
+      <Placemark>
+        <name>Aamsveen</name>
+        <styleUrl>#line-880E4F-6000-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            6.943007,52.190058,0
+            6.942557,52.190081,0
+            6.942482,52.190065,0
+            6.942146,52.19009,0
+            6.942943,52.189509,0
+            6.943655,52.188981,0
+            6.943423,52.188655,0
+            6.942961,52.188004,0
+            6.942638,52.187549,0
+            6.942348,52.187133,0
+            6.942012,52.186655,0
+            6.941868,52.186454,0
+            6.941729,52.186248,0
+            6.941325,52.185663,0
+            6.940893,52.185039,0
+            6.940519,52.184494,0
+            6.940195,52.184027,0
+            6.939784,52.183427,0
+            6.940653,52.183249,0
+            6.941623,52.183049,0
+            6.941823,52.182917,0
+            6.941954,52.182683,0
+            6.942201,52.182329,0
+            6.942596,52.181723,0
+            6.943434,52.181736,0
+            6.944421,52.18175,0
+            6.945458,52.181764,0
+            6.946607,52.18178,0
+            6.947227,52.181787,0
+            6.948358,52.181803,0
+            6.950601,52.181501,0
+            6.951535,52.182366,0
+            6.952731,52.182169,0
+            6.953406,52.182721,0
+            6.954244,52.183404,0
+            6.954845,52.183891,0
+            6.95521,52.184504,0
+            6.956247,52.185299,0
+            6.956458,52.18546,0
+            6.956692,52.185642,0
+            6.956705,52.18566,0
+            6.956873,52.185957,0
+            6.957214,52.186547,0
+            6.95743,52.186906,0
+            6.957622,52.187088,0
+            6.957241,52.187293,0
+            6.956481,52.1877,0
+            6.955774,52.188078,0
+            6.955041,52.188469,0
+            6.954481,52.188771,0
+            6.953909,52.189019,0
+            6.953168,52.18934,0
+            6.952518,52.189601,0
+            6.952241,52.189661,0
+            6.951859,52.189796,0
+            6.951672,52.189912,0
+            6.950784,52.190153,0
+            6.950513,52.190203,0
+            6.950434,52.190226,0
+            6.950366,52.190217,0
+            6.95029,52.190229,0
+            6.950255,52.190259,0
+            6.949521,52.190366,0
+            6.948957,52.190555,0
+            6.948687,52.190645,0
+            6.948115,52.190862,0
+            6.948038,52.190797,0
+            6.94771,52.190639,0
+            6.946783,52.19019,0
+            6.946044,52.189834,0
+            6.945825,52.189857,0
+            6.94532,52.189905,0
+            6.944284,52.18999,0
+            6.943739,52.190033,0
+            6.943007,52.190058,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>track_points</name>
+      <Placemark>
+        <name>X83</name>
+        <description><![CDATA[Beschreibung: Beschreibung: Wandelkeuzepunt 83<br>track_fid: 0<br>track_seg_id: 0<br>track_seg_point_id: 0<br>track_fid: 0<br>track_seg_id: 0<br>track_seg_point_id: 0]]></description>
+        <styleUrl>#icon-1499-FFEA00</styleUrl>
+        <ExtendedData>
+          <Data name="Beschreibung">
+            <value>Beschreibung: Wandelkeuzepunt 83
+track_fid: 0
+track_seg_id: 0
+track_seg_point_id: 0</value>
+          </Data>
+          <Data name="track_fid">
+            <value>0</value>
+          </Data>
+          <Data name="track_seg_id">
+            <value>0</value>
+          </Data>
+          <Data name="track_seg_point_id">
+            <value>0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            6.943007,52.190058,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Start</name>
+        <description><![CDATA[Beschreibung: Beschreibung: <br>track_fid: 0<br>track_seg_id: 0<br>track_seg_point_id: 3<br>track_fid: 0<br>track_seg_id: 0<br>track_seg_point_id: 3]]></description>
+        <styleUrl>#icon-1596-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="Beschreibung">
+            <value>Beschreibung: 
+track_fid: 0
+track_seg_id: 0
+track_seg_point_id: 3</value>
+          </Data>
+          <Data name="track_fid">
+            <value>0</value>
+          </Data>
+          <Data name="track_seg_id">
+            <value>0</value>
+          </Data>
+          <Data name="track_seg_point_id">
+            <value>3</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            6.942146,52.19009,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1</name>
+        <description><![CDATA[Beschreibung: Beschreibung: Natura 200<br>track_fid: 0<br>track_seg_id: 0<br>track_seg_point_id: 4<br>track_fid: 0<br>track_seg_id: 0<br>track_seg_point_id: 4]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="Beschreibung">
+            <value>Beschreibung: Natura 200
+track_fid: 0
+track_seg_id: 0
+track_seg_point_id: 4</value>
+          </Data>
+          <Data name="track_fid">
+            <value>0</value>
+          </Data>
+          <Data name="track_seg_id">
+            <value>0</value>
+          </Data>
+          <Data name="track_seg_point_id">
+            <value>4</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            6.942943,52.189509,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>X84</name>
+        <description><![CDATA[Beschreibung: Beschreibung: Wandelkeuzepunt 84<br>track_fid: 0<br>track_seg_id: 0<br>track_seg_point_id: 12<br>track_fid: 0<br>track_seg_id: 0<br>track_seg_point_id: 12]]></description>
+        <styleUrl>#icon-1499-FFEA00</styleUrl>
+        <ExtendedData>
+          <Data name="Beschreibung">
+            <value>Beschreibung: Wandelkeuzepunt 84
+track_fid: 0
+track_seg_id: 0
+track_seg_point_id: 12</value>
+          </Data>
+          <Data name="track_fid">
+            <value>0</value>
+          </Data>
+          <Data name="track_seg_id">
+            <value>0</value>
+          </Data>
+          <Data name="track_seg_point_id">
+            <value>12</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            6.941868,52.186454,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2</name>
+        <description><![CDATA[Beschreibung: Beschreibung: Poelen<br>track_fid: 0<br>track_seg_id: 0<br>track_seg_point_id: 16<br>track_fid: 0<br>track_seg_id: 0<br>track_seg_point_id: 16]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="Beschreibung">
+            <value>Beschreibung: Poelen
+track_fid: 0
+track_seg_id: 0
+track_seg_point_id: 16</value>
+          </Data>
+          <Data name="track_fid">
+            <value>0</value>
+          </Data>
+          <Data name="track_seg_id">
+            <value>0</value>
+          </Data>
+          <Data name="track_seg_point_id">
+            <value>16</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            6.940519,52.184494,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>X85</name>
+        <description><![CDATA[Beschreibung: Beschreibung: Wandelkeuzepunt 85<br>track_fid: 0<br>track_seg_id: 0<br>track_seg_point_id: 19<br>track_fid: 0<br>track_seg_id: 0<br>track_seg_point_id: 19]]></description>
+        <styleUrl>#icon-1499-FFEA00</styleUrl>
+        <ExtendedData>
+          <Data name="Beschreibung">
+            <value>Beschreibung: Wandelkeuzepunt 85
+track_fid: 0
+track_seg_id: 0
+track_seg_point_id: 19</value>
+          </Data>
+          <Data name="track_fid">
+            <value>0</value>
+          </Data>
+          <Data name="track_seg_id">
+            <value>0</value>
+          </Data>
+          <Data name="track_seg_point_id">
+            <value>19</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            6.939784,52.183427,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>X89</name>
+        <description><![CDATA[Beschreibung: Beschreibung: wandelkeuzepunt 89<br>track_fid: 0<br>track_seg_id: 0<br>track_seg_point_id: 26<br>track_fid: 0<br>track_seg_id: 0<br>track_seg_point_id: 26]]></description>
+        <styleUrl>#icon-1499-FFEA00</styleUrl>
+        <ExtendedData>
+          <Data name="Beschreibung">
+            <value>Beschreibung: wandelkeuzepunt 89
+track_fid: 0
+track_seg_id: 0
+track_seg_point_id: 26</value>
+          </Data>
+          <Data name="track_fid">
+            <value>0</value>
+          </Data>
+          <Data name="track_seg_id">
+            <value>0</value>
+          </Data>
+          <Data name="track_seg_point_id">
+            <value>26</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            6.942596,52.181723,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Uitkijktoren</name>
+        <description><![CDATA[Beschreibung: Beschreibung: Uitkijktoren<br>track_fid: 0<br>track_seg_id: 0<br>track_seg_point_id: 29<br>track_fid: 0<br>track_seg_id: 0<br>track_seg_point_id: 29]]></description>
+        <styleUrl>#icon-1523-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="Beschreibung">
+            <value>Beschreibung: Uitkijktoren
+track_fid: 0
+track_seg_id: 0
+track_seg_point_id: 29</value>
+          </Data>
+          <Data name="track_fid">
+            <value>0</value>
+          </Data>
+          <Data name="track_seg_id">
+            <value>0</value>
+          </Data>
+          <Data name="track_seg_point_id">
+            <value>29</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            6.945458,52.181764,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>3</name>
+        <description><![CDATA[Beschreibung: Beschreibung: Lappen<br>track_fid: 0<br>track_seg_id: 0<br>track_seg_point_id: 33<br>track_fid: 0<br>track_seg_id: 0<br>track_seg_point_id: 33]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="Beschreibung">
+            <value>Beschreibung: Lappen
+track_fid: 0
+track_seg_id: 0
+track_seg_point_id: 33</value>
+          </Data>
+          <Data name="track_fid">
+            <value>0</value>
+          </Data>
+          <Data name="track_seg_id">
+            <value>0</value>
+          </Data>
+          <Data name="track_seg_point_id">
+            <value>33</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            6.950601,52.181501,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>4</name>
+        <description><![CDATA[Beschreibung: Beschreibung: Hoogveen<br>track_fid: 0<br>track_seg_id: 0<br>track_seg_point_id: 40<br>track_fid: 0<br>track_seg_id: 0<br>track_seg_point_id: 40]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="Beschreibung">
+            <value>Beschreibung: Hoogveen
+track_fid: 0
+track_seg_id: 0
+track_seg_point_id: 40</value>
+          </Data>
+          <Data name="track_fid">
+            <value>0</value>
+          </Data>
+          <Data name="track_seg_id">
+            <value>0</value>
+          </Data>
+          <Data name="track_seg_point_id">
+            <value>40</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            6.956247,52.185299,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>X91</name>
+        <description><![CDATA[Beschreibung: Beschreibung: Wandelpadkeuzepunt 91<br>track_fid: 0<br>track_seg_id: 0<br>track_seg_point_id: 43<br>track_fid: 0<br>track_seg_id: 0<br>track_seg_point_id: 43]]></description>
+        <styleUrl>#icon-1499-FFEA00</styleUrl>
+        <ExtendedData>
+          <Data name="Beschreibung">
+            <value>Beschreibung: Wandelpadkeuzepunt 91
+track_fid: 0
+track_seg_id: 0
+track_seg_point_id: 43</value>
+          </Data>
+          <Data name="track_fid">
+            <value>0</value>
+          </Data>
+          <Data name="track_seg_id">
+            <value>0</value>
+          </Data>
+          <Data name="track_seg_point_id">
+            <value>43</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            6.956692,52.185642,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>5</name>
+        <description><![CDATA[Beschreibung: Beschreibung: Dammetjes<br>track_fid: 0<br>track_seg_id: 0<br>track_seg_point_id: 52<br>track_fid: 0<br>track_seg_id: 0<br>track_seg_point_id: 52]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="Beschreibung">
+            <value>Beschreibung: Dammetjes
+track_fid: 0
+track_seg_id: 0
+track_seg_point_id: 52</value>
+          </Data>
+          <Data name="track_fid">
+            <value>0</value>
+          </Data>
+          <Data name="track_seg_id">
+            <value>0</value>
+          </Data>
+          <Data name="track_seg_point_id">
+            <value>52</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            6.955041,52.188469,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>6</name>
+        <description><![CDATA[Beschreibung: Beschreibung: Vlinders<br>track_fid: 0<br>track_seg_id: 0<br>track_seg_point_id: 66<br>track_fid: 0<br>track_seg_id: 0<br>track_seg_point_id: 66]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="Beschreibung">
+            <value>Beschreibung: Vlinders
+track_fid: 0
+track_seg_id: 0
+track_seg_point_id: 66</value>
+          </Data>
+          <Data name="track_fid">
+            <value>0</value>
+          </Data>
+          <Data name="track_seg_id">
+            <value>0</value>
+          </Data>
+          <Data name="track_seg_point_id">
+            <value>66</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            6.949521,52.190366,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>X87</name>
+        <description><![CDATA[Beschreibung: Beschreibung: Wandelpadkeuzepunt<br>track_fid: 0<br>track_seg_id: 0<br>track_seg_point_id: 70<br>track_fid: 0<br>track_seg_id: 0<br>track_seg_point_id: 70]]></description>
+        <styleUrl>#icon-1499-FFEA00</styleUrl>
+        <ExtendedData>
+          <Data name="Beschreibung">
+            <value>Beschreibung: Wandelpadkeuzepunt
+track_fid: 0
+track_seg_id: 0
+track_seg_point_id: 70</value>
+          </Data>
+          <Data name="track_fid">
+            <value>0</value>
+          </Data>
+          <Data name="track_seg_id">
+            <value>0</value>
+          </Data>
+          <Data name="track_seg_point_id">
+            <value>70</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            6.948115,52.190862,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7</name>
+        <description><![CDATA[Beschreibung: Beschreibung: Landschap Overijssel<br>track_fid: 0<br>track_seg_id: 0<br>track_seg_point_id: 75<br>track_fid: 0<br>track_seg_id: 0<br>track_seg_point_id: 75]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="Beschreibung">
+            <value>Beschreibung: Landschap Overijssel
+track_fid: 0
+track_seg_id: 0
+track_seg_point_id: 75</value>
+          </Data>
+          <Data name="track_fid">
+            <value>0</value>
+          </Data>
+          <Data name="track_seg_id">
+            <value>0</value>
+          </Data>
+          <Data name="track_seg_point_id">
+            <value>75</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            6.945825,52.189857,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Finish</name>
+        <description><![CDATA[Beschreibung: Beschreibung: Einde<br>track_fid: 0<br>track_seg_id: 0<br>track_seg_point_id: 79<br>track_fid: 0<br>track_seg_id: 0<br>track_seg_point_id: 79]]></description>
+        <styleUrl>#icon-1596-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="Beschreibung">
+            <value>Beschreibung: Einde
+track_fid: 0
+track_seg_id: 0
+track_seg_point_id: 79</value>
+          </Data>
+          <Data name="track_fid">
+            <value>0</value>
+          </Data>
+          <Data name="track_seg_id">
+            <value>0</value>
+          </Data>
+          <Data name="track_seg_point_id">
+            <value>79</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            6.943098,52.190061,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
   </Document>
 </kml>
