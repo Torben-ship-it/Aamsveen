@@ -2309,7 +2309,7 @@
     <Folder>
       <name>track_points</name>
       <Placemark>
-        <name>X83</name>
+        <name></name>
         <description><![CDATA[Beschreibung: Beschreibung: Wandelkeuzepunt 83<br>track_fid: 0<br>track_seg_id: 0<br>track_seg_point_id: 0<br>track_fid: 0<br>track_seg_id: 0<br>track_seg_point_id: 0]]></description>
         <styleUrl>#icon-1499-FFEA00</styleUrl>
         <ExtendedData>
@@ -2363,7 +2363,7 @@ track_seg_point_id: 3</value>
         </Point>
       </Placemark>
       <Placemark>
-        <name>1</name>
+        <name></name>
         <description><![CDATA[Beschreibung: Beschreibung: Natura 200<br>track_fid: 0<br>track_seg_id: 0<br>track_seg_point_id: 4<br>track_fid: 0<br>track_seg_id: 0<br>track_seg_point_id: 4]]></description>
         <styleUrl>#icon-1899-0F9D58</styleUrl>
         <ExtendedData>
@@ -2390,7 +2390,7 @@ track_seg_point_id: 4</value>
         </Point>
       </Placemark>
       <Placemark>
-        <name>X84</name>
+        <name></name>
         <description><![CDATA[Beschreibung: Beschreibung: Wandelkeuzepunt 84<br>track_fid: 0<br>track_seg_id: 0<br>track_seg_point_id: 12<br>track_fid: 0<br>track_seg_id: 0<br>track_seg_point_id: 12]]></description>
         <styleUrl>#icon-1499-FFEA00</styleUrl>
         <ExtendedData>
@@ -2417,7 +2417,7 @@ track_seg_point_id: 12</value>
         </Point>
       </Placemark>
       <Placemark>
-        <name>2</name>
+        <name></name>
         <description><![CDATA[Beschreibung: Beschreibung: Poelen<br>track_fid: 0<br>track_seg_id: 0<br>track_seg_point_id: 16<br>track_fid: 0<br>track_seg_id: 0<br>track_seg_point_id: 16]]></description>
         <styleUrl>#icon-1899-0F9D58</styleUrl>
         <ExtendedData>
@@ -2444,7 +2444,7 @@ track_seg_point_id: 16</value>
         </Point>
       </Placemark>
       <Placemark>
-        <name>X85</name>
+        <name></name>
         <description><![CDATA[Beschreibung: Beschreibung: Wandelkeuzepunt 85<br>track_fid: 0<br>track_seg_id: 0<br>track_seg_point_id: 19<br>track_fid: 0<br>track_seg_id: 0<br>track_seg_point_id: 19]]></description>
         <styleUrl>#icon-1499-FFEA00</styleUrl>
         <ExtendedData>
@@ -2471,7 +2471,7 @@ track_seg_point_id: 19</value>
         </Point>
       </Placemark>
       <Placemark>
-        <name>X89</name>
+        <name></name>
         <description><![CDATA[Beschreibung: Beschreibung: wandelkeuzepunt 89<br>track_fid: 0<br>track_seg_id: 0<br>track_seg_point_id: 26<br>track_fid: 0<br>track_seg_id: 0<br>track_seg_point_id: 26]]></description>
         <styleUrl>#icon-1499-FFEA00</styleUrl>
         <ExtendedData>
@@ -2498,7 +2498,7 @@ track_seg_point_id: 26</value>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Uitkijktoren</name>
+        <name></name>
         <description><![CDATA[Beschreibung: Beschreibung: Uitkijktoren<br>track_fid: 0<br>track_seg_id: 0<br>track_seg_point_id: 29<br>track_fid: 0<br>track_seg_id: 0<br>track_seg_point_id: 29]]></description>
         <styleUrl>#icon-1523-FF5252</styleUrl>
         <ExtendedData>
@@ -2525,7 +2525,7 @@ track_seg_point_id: 29</value>
         </Point>
       </Placemark>
       <Placemark>
-        <name>3</name>
+        <name></name>
         <description><![CDATA[Beschreibung: Beschreibung: Lappen<br>track_fid: 0<br>track_seg_id: 0<br>track_seg_point_id: 33<br>track_fid: 0<br>track_seg_id: 0<br>track_seg_point_id: 33]]></description>
         <styleUrl>#icon-1899-0F9D58</styleUrl>
         <ExtendedData>
@@ -2552,7 +2552,7 @@ track_seg_point_id: 33</value>
         </Point>
       </Placemark>
       <Placemark>
-        <name>4</name>
+        <name></name>
         <description><![CDATA[Beschreibung: Beschreibung: Hoogveen<br>track_fid: 0<br>track_seg_id: 0<br>track_seg_point_id: 40<br>track_fid: 0<br>track_seg_id: 0<br>track_seg_point_id: 40]]></description>
         <styleUrl>#icon-1899-0F9D58</styleUrl>
         <ExtendedData>
@@ -2579,7 +2579,7 @@ track_seg_point_id: 40</value>
         </Point>
       </Placemark>
       <Placemark>
-        <name>X91</name>
+        <name></name>
         <description><![CDATA[Beschreibung: Beschreibung: Wandelpadkeuzepunt 91<br>track_fid: 0<br>track_seg_id: 0<br>track_seg_point_id: 43<br>track_fid: 0<br>track_seg_id: 0<br>track_seg_point_id: 43]]></description>
         <styleUrl>#icon-1499-FFEA00</styleUrl>
         <ExtendedData>
@@ -2606,7 +2606,7 @@ track_seg_point_id: 43</value>
         </Point>
       </Placemark>
       <Placemark>
-        <name>5</name>
+        <name></name>
         <description><![CDATA[Beschreibung: Beschreibung: Dammetjes<br>track_fid: 0<br>track_seg_id: 0<br>track_seg_point_id: 52<br>track_fid: 0<br>track_seg_id: 0<br>track_seg_point_id: 52]]></description>
         <styleUrl>#icon-1899-0F9D58</styleUrl>
         <ExtendedData>
@@ -2633,7 +2633,7 @@ track_seg_point_id: 52</value>
         </Point>
       </Placemark>
       <Placemark>
-        <name>6</name>
+        <name></name>
         <description><![CDATA[Beschreibung: Beschreibung: Vlinders<br>track_fid: 0<br>track_seg_id: 0<br>track_seg_point_id: 66<br>track_fid: 0<br>track_seg_id: 0<br>track_seg_point_id: 66]]></description>
         <styleUrl>#icon-1899-0F9D58</styleUrl>
         <ExtendedData>
@@ -2660,7 +2660,7 @@ track_seg_point_id: 66</value>
         </Point>
       </Placemark>
       <Placemark>
-        <name>X87</name>
+        <name></name>
         <description><![CDATA[Beschreibung: Beschreibung: Wandelpadkeuzepunt<br>track_fid: 0<br>track_seg_id: 0<br>track_seg_point_id: 70<br>track_fid: 0<br>track_seg_id: 0<br>track_seg_point_id: 70]]></description>
         <styleUrl>#icon-1499-FFEA00</styleUrl>
         <ExtendedData>
@@ -2687,7 +2687,7 @@ track_seg_point_id: 70</value>
         </Point>
       </Placemark>
       <Placemark>
-        <name>7</name>
+        <name></name>
         <description><![CDATA[Beschreibung: Beschreibung: Landschap Overijssel<br>track_fid: 0<br>track_seg_id: 0<br>track_seg_point_id: 75<br>track_fid: 0<br>track_seg_id: 0<br>track_seg_point_id: 75]]></description>
         <styleUrl>#icon-1899-0F9D58</styleUrl>
         <ExtendedData>
@@ -2714,7 +2714,7 @@ track_seg_point_id: 75</value>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Finish</name>
+        <name></name>
         <description><![CDATA[Beschreibung: Beschreibung: Einde<br>track_fid: 0<br>track_seg_id: 0<br>track_seg_point_id: 79<br>track_fid: 0<br>track_seg_id: 0<br>track_seg_point_id: 79]]></description>
         <styleUrl>#icon-1596-FF5252</styleUrl>
         <ExtendedData>
