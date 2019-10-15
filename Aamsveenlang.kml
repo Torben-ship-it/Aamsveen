@@ -2336,7 +2336,7 @@ track_seg_point_id: 0</value>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Start</name>
+        <name></name>
         <description><![CDATA[Beschreibung: Beschreibung: <br>track_fid: 0<br>track_seg_id: 0<br>track_seg_point_id: 3<br>track_fid: 0<br>track_seg_id: 0<br>track_seg_point_id: 3]]></description>
         <styleUrl>#icon-1596-F9A825</styleUrl>
         <ExtendedData>
